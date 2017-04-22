@@ -1,0 +1,6 @@
+{
+  "name": "Node API test",
+  "description": "a simple test API hosted on Heroku",
+  "repository": "https://github.com/jalexander/art-test-api.git",
+  "keywords": ["node", "express", "static"]
+}

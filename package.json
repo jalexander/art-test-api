@@ -1,0 +1,22 @@
+{
+  "name": "art-test-api",
+  "version": "1.0.0",
+  "description": "a simple test API hosted on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "7.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jalexander/art-test-api.git"
+  },
+  "author": "Jim Alexander",
+  "license": "MIT"
+}
